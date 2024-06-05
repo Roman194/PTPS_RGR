@@ -1,6 +1,6 @@
 # PTPS_RGR <br/>
 This project is about optimization of network vizualization from "Programming Collective Intelligense" book by Toby Segaran (136 p.). <br/>
-It's my interpritation of the excample from network vizualization chapter on Java language with Swing framework. <br/>
+It's my interpritation of the example from network vizualization chapter on Java language with Swing framework. <br/>
 
 ## Used features <br/>
 - Random search method (for search of the most optimal solution) <br/>
